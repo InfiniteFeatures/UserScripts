@@ -6,6 +6,8 @@
 // @author       Youko
 // @match        https://www.youtube.com/shorts/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @updateURL    https://github.com/InfiniteFeatures/UserScripts/raw/master/fuck-shorts.user.js
+// @downloadURL  https://github.com/InfiniteFeatures/UserScripts/raw/master/fuck-shorts.user.js
 // @grant        none
 // ==/UserScript==
 
